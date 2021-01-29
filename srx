@@ -1,0 +1,6 @@
+print("hello world")
+x=input("ADINIZI GİRİN: ")
+a="serhat"
+if x==a:
+    print("your name same admins name")
+    
